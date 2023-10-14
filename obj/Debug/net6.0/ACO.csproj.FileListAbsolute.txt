@@ -1,0 +1,14 @@
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\bin\Debug\net6.0\ACO.exe
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\bin\Debug\net6.0\ACO.deps.json
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\bin\Debug\net6.0\ACO.runtimeconfig.json
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\bin\Debug\net6.0\ACO.dll
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\bin\Debug\net6.0\ref\ACO.dll
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\bin\Debug\net6.0\ACO.pdb
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\obj\Debug\net6.0\ACO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\obj\Debug\net6.0\ACO.AssemblyInfoInputs.cache
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\obj\Debug\net6.0\ACO.AssemblyInfo.cs
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\obj\Debug\net6.0\ACO.csproj.CoreCompileInputs.cache
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\obj\Debug\net6.0\ACO.dll
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\obj\Debug\net6.0\ref\ACO.dll
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\obj\Debug\net6.0\ACO.pdb
+D:\Witek\@magisterka\Praca magisterska\implementacja\ACO\AntColonyOptimization\obj\Debug\net6.0\ACO.genruntimeconfig.cache
